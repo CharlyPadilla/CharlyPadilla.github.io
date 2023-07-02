@@ -173,6 +173,7 @@
         CURP = CURP.normalize();
         CURP = CURP.toUpperCase();
         document.getElementById("txtCURP").innerHTML=CURP;
+        console.log(CURP);
 
 }
 /* 
