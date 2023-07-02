@@ -1,0 +1,10 @@
+#inicio {
+    background-image: url('IMAGES_Curp/Inicio.jpg'); 
+    background-size: 100% 100%; 
+    background-position: center;
+    height: 600px;
+}
+
+.textoInicio {
+    font-size: 70px; margin: 0px ; color: #fcfcf3
+}
